@@ -75,11 +75,9 @@ Screenshots of the hardware setup and Blynk dashboard are included in the projec
 ```text
 Forest_Guard/
 │
-├── ESP32_Code/        # Microcontroller firmware
-├── PCB_Design/        # EasyEDA PCB files
-├── Schematics/        # Circuit diagrams
-├── Documentation/     # Project report & references
-└── README.md
+├── ESP32_Project/        # Microcontroller firmware
+├── RPi_Project/          # Raspberry Pi firmware
+└── Statics/              # Documentation, Video and System Level Diagram
 ```
 
 ---
@@ -131,6 +129,8 @@ Such scalability can support a nationwide early warning system (e.g., across Pak
 ## Team
 
 **Muhammad Hisham Bin Nauman**  
+**Muhammad Shamveel Athar**
+**Muhammad Hashim**
 Department of Computer Engineering  
 NUST EME
 
