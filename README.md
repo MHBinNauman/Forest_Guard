@@ -129,8 +129,9 @@ Such scalability can support a nationwide early warning system (e.g., across Pak
 ## Team
 
 **Muhammad Hisham Bin Nauman**  
-**Muhammad Shamveel Athar** 
-**Muhammad Hashim** 
+**Muhammad Shamveel Athar**  
+**Muhammad Hashim**  
+
 Department of Computer Engineering  
 NUST EME
 
